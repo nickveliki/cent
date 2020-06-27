@@ -1,0 +1,24 @@
+{
+  "name": "cent",
+  "version": "1.0.0",
+  "description": "determine the cent relation of a frequency to a base tune",
+  "main": "cent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickveliki/cent.git"
+  },
+  "keywords": [
+    "music",
+    "math",
+    "magic"
+  ],
+  "author": "nickveliki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickveliki/cent/issues"
+  },
+  "homepage": "https://github.com/nickveliki/cent#readme"
+}
